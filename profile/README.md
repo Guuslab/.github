@@ -1,6 +1,6 @@
 # Hey! Welcome to GuusLab 👋
 
-Hi, I’m Guus Kaashoek, a 17-year-old web design student at Grafisch Lyceum Utrecht.  
+Hi, I’m Guus Kaashoek, a 18-year-old web design student at Grafisch Lyceum Utrecht.  
 GuusLab is my personal project where I bring my ideas to life and challenge myself to keep learning and growing. It’s a mix of everything I love: web design, tech, and experimenting.
 
 ---
